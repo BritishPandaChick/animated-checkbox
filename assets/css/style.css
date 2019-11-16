@@ -71,7 +71,7 @@ input[type="checkbox"] {
 
 /* when the user checks the checkbox the checked icon will animate in */
 input[type="checkbox"]:checked + label:after {
-  max-width: 25px; /* arbitratry number more than the icon's width */
+  max-width: 25px; /* an arbitratry number more than the icon's width */
   opacity: 1; /* for fade in effect */
 }
 
