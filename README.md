@@ -1,5 +1,5 @@
 # Custom animated checkbox inputs using CSS and iconfonts
-CodePlayer Custom animated checkbox inputs using CSS and iconfonts project. Made with HTML and CSS.
+CodePlayer Custom animated checkbox inputs using CSS and iconfonts project.
 
 ## Instructions
 Clone this repo or download zip file. Open index.html in your browser.
